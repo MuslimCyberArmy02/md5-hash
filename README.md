@@ -6,7 +6,7 @@ Tools ini adalah tools team MuslimCyberArmy02 yang diketuai oleh Waen. Berguna u
 
 $ apt install bash
 
-$ apt insa=tall git
+$ apt install git
 
 $ git clone https://github.com/MuslimCyberArmy02/md5-hash
 
