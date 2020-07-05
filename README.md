@@ -4,11 +4,13 @@ Tools ini adalah tools team MuslimCyberArmy02 yang diketuai oleh Waen. Berguna u
 
 # Usage
 
-$ apt install bash
-
 $ gem install lolcat
 
 $ gem install figlet
+
+$ apt install curl
+
+$ apt install bash
 
 $ apt install git
 
